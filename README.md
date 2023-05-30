@@ -1,2 +1,0 @@
-# locadora
-locadora mauricio
